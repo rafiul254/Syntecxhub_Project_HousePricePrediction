@@ -220,9 +220,13 @@ streamlit>=1.28.0
 ## 👤 Author
 
 **Rafiul Islam**
+
 IoT & Robotics Student | ML Intern @ Syntecxhub
-📧 2301012@uftb.ac.bd
+
+📧 2301012@uftb.ac.bd 
+
 🔗 [LinkedIn](https://www.linkedin.com/in/rafiul-islam-25sep92004)
+
 🐙 [GitHub](https://github.com/rafiul254)
 
 ---
